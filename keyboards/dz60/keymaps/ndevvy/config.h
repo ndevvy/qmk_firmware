@@ -1,3 +1,4 @@
+#define CONFIG_KEYMAP_H
 #include "../../config.h"
 
 #undef TAPPING_TERM
